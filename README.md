@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dima0411
+- 👋 Hi, I’m Dimakatso Mosheshe
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML & CSS
 
